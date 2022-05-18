@@ -4,5 +4,11 @@
   "description": "响应式的json配置文件",
   "main": "lib/index.js",
   "author": "yanyun",
-  "license": "MIT"
+  "license": "MIT",
+  "repository": "https://github.com/yanyunwu/actjson-config.git",
+  "keywords": [
+    "json文件",
+    "响应式配置",
+    "响应式json"
+  ]
 }

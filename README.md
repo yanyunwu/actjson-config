@@ -35,7 +35,7 @@ console.log(config);
 
 以上例子中，不仅对象上的数据会变，json文件中的内容同样会变
 
-*注意：actjson支持嵌套对象的使用*
+*注意：actjson支持嵌套对象和数组的使用*
 
 
 
