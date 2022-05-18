@@ -1,0 +1,8 @@
+{
+  "name": "actjson-config",
+  "version": "0.0.1",
+  "description": "响应式的json配置文件",
+  "main": "lib/index.js",
+  "author": "yanyun",
+  "license": "MIT"
+}
