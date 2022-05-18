@@ -6,8 +6,9 @@ const config = json.getConfig();
 // config.b = 3;
 // config.c = 4;
 
-config.a = 1;
-config.b = 2;
-config.c = 3;
+// config.a = 1;
+// config.b = 2;
+// config.c = 3;
+config.c[4] = 1;
 
 console.log(config);
